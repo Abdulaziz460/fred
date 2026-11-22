@@ -115,7 +115,7 @@
     "globals": "^17.14.0",
     "lefthook": "^2.2.2",
     "postcss": "^8.5.33",
-    "postcss-custom-media": "^12.0.3",
+    "postcss-custom-media": "^12.0.4",
     "postcss-loader": "^8.2.1",
     "postcss-mixins": "^12.1.2",
     "postcss-preset-env": "^11.6.2",
