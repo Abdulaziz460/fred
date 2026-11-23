@@ -7,7 +7,7 @@
   "main": "index.js",
   "types": "index.js",
   "dependencies": {
-    "he": "^1.2.0"
+    "he": "^2.0.0"
   },
   "devDependencies": {
     "@types/he": "^1.2.3"
